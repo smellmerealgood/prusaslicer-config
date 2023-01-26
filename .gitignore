@@ -6,6 +6,7 @@ sla_material/
 sla_print/
 snapshots/
 vendor/
+*.bak
 
 PrusaSlicer.ini
 PrusaSlicerGcodeViewer.ini
